@@ -1,6 +1,6 @@
 # Centralized-Digital-Library-Server-Application
 
-I have developed a two-layer distributed application using Python Socket Programming as part of my s lab project. The application's structure includes a total of 13 servers, comprising of one central server, three language-specific servers, and nine genre-specific servers.
+I have developed a two-layer distributed application using Python Socket Programming as part of my lab project. The application's structure includes a total of 13 servers, comprising of one central server, three language-specific servers, and nine genre-specific servers.
 
 The first layer of the application is designed to manage language-specific requests, and it incorporates three servers catering to Telugu, Hindi, and English literature, respectively.
 
