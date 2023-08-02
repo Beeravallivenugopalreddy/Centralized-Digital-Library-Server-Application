@@ -1,0 +1,7 @@
+1.The C Programming Language by Brian W. Kernighan 
+2.The Design of the UNIX Operating System by Maurice J. Bach
+3.UNIX Power Tools by Jerry Peek
+4.Network Your Computers & Devices Step by Step by Ciprian Adrian Rusen
+5.The Past Present and Future of JavaScript by Axel Rauschmayer 
+6.Your First App: Node.js by Jim Schubert 
+7.How to Build a Computer by John Gower III 
